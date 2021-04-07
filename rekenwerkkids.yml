@@ -1,0 +1,47 @@
+name: rekenwerkkids
+channels:
+  - defaults
+dependencies:
+  - ca-certificates=2021.1.19=hecd8cb5_1
+  - certifi=2020.12.5=py38hecd8cb5_0
+  - freetype=2.10.4=ha233b18_0
+  - jpeg=9b=he5867d9_2
+  - lcms2=2.12=hf1fd2bf_0
+  - libcxx=10.0.0=1
+  - libedit=3.1.20191231=h1de35cc_1
+  - libffi=3.3=hb1e8313_2
+  - libpng=1.6.37=ha441bb4_0
+  - libtiff=4.1.0=hcb84e12_1
+  - lz4-c=1.9.3=h23ab428_0
+  - ncurses=6.2=h0a44026_1
+  - olefile=0.46=py_0
+  - openssl=1.1.1k=h9ed2024_0
+  - pip=20.2.2=py38_0
+  - python=3.8.5=h26836e1_1
+  - readline=8.0=h1de35cc_0
+  - setuptools=49.6.0=py38_0
+  - sqlite=3.33.0=hffcf06c_0
+  - tk=8.6.10=hb0a8c7a_0
+  - wheel=0.35.1=py_0
+  - xz=5.2.5=h1de35cc_0
+  - zlib=1.2.11=h1de35cc_3
+  - zstd=1.4.9=h322a384_0
+  - pip:
+    - autopep8==1.5
+    - cairocffi==1.1.0
+    - cairosvg==2.5.2
+    - cffi==1.14.0
+    - cssselect2==0.3.0
+    - defusedxml==0.6.0
+    - html5lib==1.0.1
+    - pdfkit==0.6.1
+    - pillow==8.2.0
+    - pycodestyle==2.5.0
+    - pycparser==2.20
+    - pypdf2==1.26.0
+    - pyphen==0.9.5
+    - six==1.14.0
+    - tinycss2==1.0.2
+    - weasyprint==51
+    - webencodings==0.5.1
+prefix: /Users/wouter/opt/miniconda3/envs/rekenwerkkids
